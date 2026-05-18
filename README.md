@@ -2,9 +2,9 @@
 
 ### An experienced developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pete-oconnell&label=Profile views&color=0e75b6&style=flat" alt="pete-oconnell" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=pete-oconnell&label=Profile%20views&color=0e75b6&style=flat" alt="pete-oconnell" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pete-oconnell" alt="pete-oconnell" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=pete-oconnell" alt="pete-oconnell" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
